@@ -1,7 +1,8 @@
 ﻿namespace MicroservicesTestingDemo.Microservices.Common
 {
-    public class Class1
+    public class GlobalFilters<T> : List<GenericFilterData<T>>
     {
 
     }
+
 }
