@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\MicroservicesTestingDemo.Testing.Common\MicroservicesTestingDemo.Testing.Common.csproj" />
-  </ItemGroup>
-
 </Project>
