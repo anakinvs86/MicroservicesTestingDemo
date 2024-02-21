@@ -14,4 +14,11 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Microservices.Authentication.Clients\Microservices.Authentication.Clients.csproj" />
+    <ProjectReference Include="..\Microservices.Deliveries.Clients\Microservices.Deliveries.Clients.csproj" />
+    <ProjectReference Include="..\Microservices.Locations.Clients\Microservices.Locations.Clients.csproj" />
+    <ProjectReference Include="..\MicroservicesTestingDemo.Testing.Common\MicroservicesTestingDemo.Testing.Common.csproj" />
+  </ItemGroup>
+
 </Project>
