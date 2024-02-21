@@ -1,6 +1,6 @@
 ﻿namespace Microservices.Locations.Clients
 {
-    public class Class1
+    public class Class2
     {
 
     }
